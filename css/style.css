@@ -18,7 +18,7 @@ body::before {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: url('../image/background.jpg') no-repeat center top fixed;
+    background: url('../image/background.png') no-repeat center top fixed;
     opacity: 0.5;
     z-index: -1;
 }
